@@ -1,2 +1,4 @@
-PyPDF2
-transformers
+langchain
+openai
+pytesseract
+pdf2image
